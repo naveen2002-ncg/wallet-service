@@ -4,7 +4,7 @@ A production-style backend service for managing user wallets and transactions wi
 
 ## 🌐 Live Demo
 
-- **Live App (Dashboard)**: https://wallet-service-qze7.onrender.coml
+- **Live App (Dashboard)**: https://wallet-service-qze7.onrender.com
 - **Login Page**: https://wallet-service-qze7.onrender.com/login.html
 - **API Base URL**: https://wallet-service-qze7.onrender.com/api/v1
 
