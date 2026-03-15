@@ -2,6 +2,12 @@
 
 A production-style backend service for managing user wallets and transactions with JWT authentication.
 
+## 🌐 Live Demo
+
+- **Live App (Dashboard)**: `https://wallet-service-qze7.onrender.com/dashboard.html`
+- **Login Page**: `https://wallet-service-qze7.onrender.com/login.html`
+- **API Base URL**: `https://wallet-service-qze7.onrender.com/api/v1`
+
 ## 🏗️ Architecture
 
 ```
